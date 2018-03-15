@@ -8,7 +8,7 @@ this are the first things to do with the   data
 5) other transformations
 
 create a corpus : (corpus means collection of documents)
-types of corpus 
+types of corpus    
 1) Vcorpus
 2)Pcorpus
 
