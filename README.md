@@ -5,7 +5,7 @@ this are the first things to do with the   data
 2)remove stop words
 3)apply regular expression
 4)stemming
-5) other transformations
+5) other transformations  
 
 create a corpus : (corpus means collection of documents)
 types of corpus    
